@@ -1,0 +1,29 @@
+2026-02-10 17:22:41,332 - modules.gui - DEBUG - 日志文件路径: D:\project\zhiwei\version-change\modules\..\version_switcher.log
+2026-02-10 17:22:41,332 - modules.gui - DEBUG - 开始创建GUI界面
+2026-02-10 17:22:41,413 - modules.gui - DEBUG - 创建主窗口完成
+2026-02-10 17:22:41,413 - modules.gui - DEBUG - 开始初始化参数
+2026-02-10 17:22:41,413 - modules.gui - DEBUG - 初始化参数完成，app_data: {'version_paths': {}, 'enabled_versions': {}, 'item_key_map': {}, 'software_versions': {}, 'current_nav': <tkinter.StringVar object at 0x0000026C725806E0>, 'current_category': <tkinter.StringVar object at 0x0000026C6FFB4550>, 'root': None, 'tree': None}
+2026-02-10 17:22:41,413 - modules.gui - DEBUG - 开始初始化UI
+2026-02-10 17:22:41,419 - modules.gui - DEBUG - 初始化UI完成
+2026-02-10 17:22:41,419 - modules.gui - DEBUG - 更新全局应用数据完成
+2026-02-10 17:22:41,430 - modules.gui - DEBUG - 开始初始化表格
+2026-02-10 17:22:41,430 - modules.gui - DEBUG - 开始更新表格，过滤项: All
+2026-02-10 17:22:41,430 - modules.gui - DEBUG - 开始扫描软件版本
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 扫描到的软件版本: {'Python': {}, 'Node.js': {}, 'Java': {}, 'Git': {}}
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 当前PATH环境变量: C:\Users\11786\.jdks\openjdk-23.0.1\bin;D:\codeTool\jdk1.8.0_271\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\11786\.jdks\openjdk-23.0.1\bin;d:\program\cursor\resources\app\bin;C:\Program Files\Google\Chrome\Application;D:\Program Files\vm\bin\;C:\Program Files\nodejs22;D:\codeTool\node-v16.17.1-win-x641;C:\Program Files\PlasticSCM5\server;C:\Program Files\PlasticSCM5\client;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\program\xshell\;D:\program\Xshell7\;C:\Program Files\TortoiseSVN\bin;D:\codeTool\apache-maven-3.6.3\bin;C:\Program Files\dotnet\;D:\wget;C:\Program Files\Tailscale\;C:\ProgramData\chocolatey\bin;D:\program\Git\cmd;D:\codeTool\protoc-28.1-win64\bin;C:\Users\11786\AppData\Local\Microsoft\WindowsApps;D:\program\IntelliJ IDEA 2020.3.2\bin;C:\Users\11786\.dotnet\tools;D:\program\Fiddler;C:\Users\11786\AppData\Roaming\npm;D:\program\PyCharm 2025.1\bin;C:\Users\11786\;D:\codeTool\Minikube;D:\Program Files (x86)\Xshell\;D:\Program Files (x86)\Xftp\;D:\download\x86_64-15.1.0-release-win32-seh-ucrt-rt_v12-rev0\mingw64\bin;C:\Program Files\CMake\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\PowerShell\7\;C:\MinGW\msys\1.0\bin;C:\Users\11786\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\11786\AppData\Local\Programs\Python\Python311\;C:\Users\11786\.cargo\bin;D:\program\Microsoft VS Code\bin;D:\Program Files\Antigravity\bin
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 检查软件: Python
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 检查软件: Node.js
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 检查软件: Java
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 检查软件: Git
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 最终的启用版本: {}
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 清空表格，当前子项数量: 0
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 清空映射后，version_paths: {}, item_key_map: {}
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 开始填充数据，software_versions: {'Python': {}, 'Node.js': {}, 'Java': {}, 'Git': {}}
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 处理软件: Python
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 处理软件: Node.js
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 处理软件: Java
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 处理软件: Git
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 表格更新完成，最终子项数量: 0
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 初始化表格完成
+2026-02-10 17:22:41,445 - modules.gui - DEBUG - 启动主循环
+2026-02-10 17:27:46,363 - modules.gui - DEBUG - 主循环结束

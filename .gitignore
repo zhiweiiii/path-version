@@ -1,0 +1,25 @@
+# 编译产物
+build/
+dist/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 临时文件
+*.tmp
+*.temp
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 缓存文件
+software_scan_cache.json
+
+# IDE相关
+.vscode/
+.idea/
+
+# 打包配置
+*.spec
